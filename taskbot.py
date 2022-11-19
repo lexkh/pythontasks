@@ -2,7 +2,7 @@ from random import choice
 
 import telebot
 
-token = '5175221406:AAEmQexZ3EcLFGd9CbFaTVCuRZmRw49YgOg'
+token = '_____'
 bot = telebot.TeleBot(token)
 
 RANDOM_TASKS = ['Выучить Python', 'Прочитать книгу', 'Прогуляться', 'Сделать зарядку']
